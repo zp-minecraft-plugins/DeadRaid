@@ -1,0 +1,10 @@
+name: Deadraid
+main: me.zackpollard.deadraid.DeadRaid
+version: 0.1
+commands:
+    deadraid:
+        description: Deadraid
+        usage: Use /deadraid to see valid commands.
+permission :
+    deadraid.host
+    deadraid.join
